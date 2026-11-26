@@ -1,0 +1,5 @@
+*.R   text eol=lf
+*.md  text eol=lf
+*.tsv text eol=lf
+*.qs2 binary
+SHA256SUMS text eol=lf

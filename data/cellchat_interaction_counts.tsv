@@ -1,0 +1,13 @@
+	B	Endothelial	EpiN	EpiT	Fibroblast	Gliacyte	Macrophage	Mast	Monocyte	Pericyte	Plasma	TNK
+B	5	10	2	5	16	9	23	5	1	21	4	17
+Endothelial	30	100	14	38	108	72	80	35	15	102	15	59
+EpiN	4	15	3	9	7	7	13	4	1	8	2	13
+EpiT	7	27	6	18	13	9	19	5	1	20	2	17
+Fibroblast	35	144	20	66	185	142	106	60	20	139	21	82
+Gliacyte	29	105	18	49	170	134	79	49	16	124	22	62
+Macrophage	27	43	7	28	50	28	81	30	22	59	21	45
+Mast	12	19	2	10	23	9	39	11	10	18	4	21
+Monocyte	3	6	1	4	6	4	16	5	5	8	1	14
+Pericyte	28	112	16	47	155	106	92	47	17	120	18	69
+Plasma	5	8	0	8	16	9	14	7	2	16	3	17
+TNK	9	5	3	5	10	6	26	6	6	14	3	17
